@@ -19,6 +19,8 @@ description: Un proyecto de ejemplo para utilizar las capacidades de Generative 
 
 # Trabajo final: Tecnologías Digitales
 
+Hola estimad@s alumn@s del curso Tecnologias Digitales! Bienvenidos al repositorio de Github de su tarea. Les recomendamos leer claramente todo el repositorio antes de empezar a ejecutar/instalar.
+
 ## Tabla de Contenidos
 
 - [Funcionalidades](#funcionalidades)
